@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Frontend<br><br>
 
-h2 align="center">Leetcode Info<h2>  
+<h2> align="center">Leetcode Info</h2>  
 
 <p align="center">
   
