@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend<br>🌱 I’m currently learning ReactJs<br>
+🔭 I’m currently working on Frontend<br><br>
+
+h2 align="center">Leetcode Info<h2>  
+
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 
 ## 🌐 Socials:
