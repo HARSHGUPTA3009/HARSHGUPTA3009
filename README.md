@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend<br><br>
+🔭 I’m currently working on MERN STACK and JAVA [DSA] <br><br>
 
 <h2 align="center">Leetcode Info</h2>  
 
