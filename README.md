@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Harsh Gupta
 
-### Backend Developer | Java DSA | GDSC Mentor | GSSoC Campus Ambassador
+### Full Stack Developer | Java DSA | GDSC Mentor | GSSoC Campus Ambassador
 
 ---
 
