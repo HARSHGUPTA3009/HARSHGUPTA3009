@@ -13,6 +13,8 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HARSHGUPTA3009&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark)
