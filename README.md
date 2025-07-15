@@ -66,14 +66,14 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
 
-## 🚀 Additional Tech Stack (Tushar)
+## 🚀 Additional Tech Stack
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
+     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /><br>C</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" /><br>React</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" /><br>Python</td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" /><br>JavaScript</td>
@@ -117,12 +117,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HARSHGUPTA3009&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=HARSHGUPTA3009&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
