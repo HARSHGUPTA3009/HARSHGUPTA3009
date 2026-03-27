@@ -33,7 +33,7 @@
 
 ### Who I Am
 
-Engineering student at **Thapar Institute** (ECE, GPA 8.53 · Batch 2027) with 2 production internships under my belt.
+Engineering student at **Thapar Institute** (Batch 2027) with 2 production internships under my belt.
 
 I build **backend systems that don't break**, **APIs that don't leak**, and **platforms that actually ship.**
 
@@ -135,35 +135,45 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 ### Tech Stack
 
-**Languages**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" /><br>React</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" /><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" /><br>JavaScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" /><br>C++</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" /><br>AWS</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" /><br>Github</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" /><br>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="40" /><br>Redis</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=django" width="40" /><br>Django</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br>Tailwind</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br>Express.js</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="40" /><br>GCP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="40" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" /><br>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="40" /><br>Postman</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VSCode</td>
+    <td align="center" width="96"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" /><br>Vercel</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML5</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap</td>
+  </tr>
+</table>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Databases & Infra**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+</div>
 
 ---
 
@@ -171,11 +181,11 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 <div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=HARSHGUPTA3009&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Fira%20Code&ext=heatmap)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Fira%20Code&ext=heatmap)
 
 </div>
 
@@ -187,14 +197,6 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 - **Django 5** — Udemy
 - **Salesforce AI Agents** — GeeksForGeeks
 - **Summer Analytics** — IIT Guwahati
-
----
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HARSHGUPTA3009&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)
-
-</div>
 
 ---
 
