@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+---
 
-</div>
-
-<div align="center">
-
-```
+<pre>
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║   Building systems that scale. Writing code that ships.     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 # Harsh Gupta
 
@@ -183,11 +179,51 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Fira%20Code&ext=heatmap)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact)
 
 </div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+
+**GitHub Contributions**
+
+![GitHub Snake](https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/github-contribution-grid-snake-dark.svg)
+
+**LeetCode Submissions**
+
+![LeetCode Snake](https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/leetcode-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚙️ **Setup:** To activate the snakes, add this GitHub Actions workflow to `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: HARSHGUPTA3009
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
@@ -202,13 +238,9 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 <div align="center">
 
-*"The best systems are invisible. The best code ships."*
-
 **Open to Full Stack / SDE Internships · India (Bangalore · Gurgaon · Delhi)**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshguptaaa)
 [![Email](https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgupta1be23@thapar.edu)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 </div>
