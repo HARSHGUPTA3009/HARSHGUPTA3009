@@ -1,84 +1,212 @@
 <div align="center">
 
-# 👋 Hi, I'm Harsh Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer | Java DSA | GDSC Mentor | GSSoC Campus Ambassador
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   Building systems that scale. Writing code that ships.     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+# Harsh Gupta
+
+**Full Stack Engineer · Systems Thinker · Builder**
+
+*MERN · GenAI · DevOps · System Design*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshguptaaa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshgupta.tech-000000?style=flat-square&logo=vercel&logoColor=white)](https://harshgupta.tech)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/hedgehoggg)
+[![Email](https://img.shields.io/badge/Email-hgupta1be23%40thapar.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hgupta1be23@thapar.edu)
+
+</div>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshguptaaa/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=googlechrome)](https://codolio.com/profile/harshgupta)
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+
+### Who I Am
+
+Engineering student at **Thapar Institute** (ECE, GPA 8.53 · Batch 2027) with 2 production internships under my belt.
+
+I build **backend systems that don't break**, **APIs that don't leak**, and **platforms that actually ship.**
+
+Currently targeting **Full Stack / SDE Intern** roles in Bangalore, Gurgaon, or Delhi.
+
+- 🏆 **National Runner-Up** — Smart India Hackathon 2025 (Govt. of India / DRDO)
+- 🎓 **University Merit Scholarship** — ₹1,50,900 (JEE-based)
+- 👥 **DSA & Web Dev Lead** — Google Developer Groups on Campus, Thapar
+- 🔥 **500+** DSA problems across LeetCode, Codeforces, CodeChef & GFG
+
+<br clear="right"/>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HARSHGUPTA3009&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Experience
+
+```yaml
+Hosmas                     Full Stack Developer Intern
+Dec 2025 – Feb 2026        Django · Go · Docker · PostgreSQL · Redis · GCP
+
+  → Built a ₹1.5M-funded hostel services platform on RESTful microservices
+  → Redis caching + query optimization under concurrent production load
+  → Dockerized & deployed on GCP with CI/CD, zero-downtime release pipeline
+```
+
+```yaml
+Glyptika Studios            Backend Developer Intern
+Apr 2025 – Sep 2025         Django · Python · PostgreSQL · JWT
+
+  → Django REST backend for a Meta Quest VR application
+  → 180ms response time · 10+ concurrent sessions
+  → 35% faster data fetching · API contracts with Unreal Engine devs
+```
 
 ---
 
-## 📊 LeetCode Stats
+### Featured Projects
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark)
-<br><br>
-![LeetCode Contest Rating](https://img.shields.io/badge/LeetCode%20Contest-1509-orange?style=for-the-badge&logo=leetcode&logoColor=white)
-
----
-
-## 💻 My Tech Stack
 <table>
-  <tr>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" /><br>React</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40" /><br>Python</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" /><br>JavaScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40" /><br>C++</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40" /><br>TypeScript</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" /><br>AWS</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" /><br>Redux</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" /><br>Github</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" /><br>Git</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="40" /><br>Kubernetes</td>
-    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40" /><br>Docker</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40" /><br>HTML5</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40" /><br>CSS</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" /><br>Bootstrap</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br>MongoDB</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br>Nodejs</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" /><br>VsCode</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=wordpress" width="40" /><br>WordPress</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br>Nextjs</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /><br>Java</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="40" /><br>PostgreSQL</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" /><br>LaTeX</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /><br>Express.js</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/66711082?s=200&v=4" width="40" /><br>FastAPI</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" /><br>Oracle</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40" /><br>Heroku</td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" /><br>Anaconda</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /><br>Angular</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" /><br>Django</td>
-    <td align="center" width="96"><img src="https://nestjs.com/img/logo-small.svg" width="40" /><br>NestJS</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" /><br>Notion</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" /><br>Postman</td>
-    <td align="center" width="96"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" /><br>Vercel</td>
-    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Render_logo.svg" width="40" /><br>Render</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /><br>TailwindCSS</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[JobFlow — Job Application System](https://github.com/HARSHGUPTA3009)**
+
+`TypeScript` `MongoDB` `Node.js` `Express.js`
+
+Scalable placement platform with ATS-based resume evaluation, automated on/off-campus outreach, and unified candidate profile aggregation.
+
+- 99.9% uptime on RESTful microservices
+- 40% reduction in manual placement ops
+- Automated resume-to-email cold outreach pipeline
+
+</td>
+<td width="50%" valign="top">
+
+**MiniCloud — PaaS Deployment Platform**
+
+`TypeScript` `Docker` `PostgreSQL` `Redis` `BullMQ`
+
+Vercel-style PaaS automating GitHub cloning, Docker builds, and deployments — built because deploying shouldn't require a PhD.
+
+- WebSocket real-time build logs
+- 3x parallel builds via BullMQ
+- 5-service Docker microservices stack + Cloudflare Tunnel for zero-config HTTPS
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**ALM Chatbot — DRDO Audio Intelligence**
+
+`Python` `Multimodal AI` `Inference Pipelines` `Docker`
+
+Audio Language Model for defense-grade emotion-aware inference over layered speech and non-speech audio.
+
+- Inference within 10 seconds
+- Built for DRDO · SIH 2025 Runner-Up
+- Scalable Docker-based pipeline
+
+</td>
+<td width="50%" valign="top">
+
+**Quyl — AI Study Assistant (Thapar)**
+
+`Next.js` `RAG` `LangChain` `PostgreSQL`
+
+Thapar-specific AI assistant trained on course data across 7 branches and 6 semesters. Integrated file manager + conversational document Q&A.
+
+- Built under GDG on Campus initiative
+- 300+ student community impact
+- Course-aware retrieval-augmented generation
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🐙 GitHub Stats
+### Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HARSHGUPTA3009&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
+
+### GitHub Activity
+
+<div align="center">
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=HARSHGUPTA3009&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
+
+---
+
+### Certifications
+
+- **The Complete Full Stack Bootcamp 2024** — Udemy
+- **Django 5** — Udemy
+- **Salesforce AI Agents** — GeeksForGeeks
+- **Summer Analytics** — IIT Guwahati
+
+---
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HARSHGUPTA3009&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)
+
+</div>
+
+---
+
+<div align="center">
+
+*"The best systems are invisible. The best code ships."*
+
+**Open to Full Stack / SDE Internships · India (Bangalore · Gurgaon · Delhi)**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshguptaaa)
+[![Email](https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgupta1be23@thapar.edu)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
 
 </div>
