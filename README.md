@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=HARSHGUPTA3009&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
 ### Who I Am
 
 Engineering student at **Thapar Institute** (Batch 2027) with 2 production internships under my belt.
@@ -171,19 +169,14 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 ---
 
-### GitHub Activity
+### Leetcode Activity
 
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/hedgehoggg?theme=dark&font=Fira%20Code&ext=heatmap)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHGUPTA3009&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&cache_seconds=1800)
-
 </div>
 
----
-
-### Contribution Snake
 
 <div align="center">
 
@@ -193,18 +186,8 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 ---
 
-### Certifications
-
-- **The Complete Full Stack Bootcamp 2024** — Udemy
-- **Django 5** — Udemy
-- **Salesforce AI Agents** — GeeksForGeeks
-- **Summer Analytics** — IIT Guwahati
-
----
-
 <div align="center">
 
-**Open to Full Stack / SDE Internships · India (Bangalore · Gurgaon · Delhi)**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshguptaaa)
 [![Email](https://img.shields.io/badge/Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hgupta1be23@thapar.edu)
