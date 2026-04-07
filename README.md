@@ -180,8 +180,11 @@ Thapar-specific AI assistant trained on course data across 7 branches and 6 seme
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/github-contribution-grid-snake-dark.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/HARSHGUPTA3009/HARSHGUPTA3009/output/github-snake.svg" />
+</picture>
 </div>
 
 ---
